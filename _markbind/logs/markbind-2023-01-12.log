@@ -1,0 +1,30 @@
+2023-01-11T16:01:29.099Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\project as some of its dependencies were changed since the last visit
+2023-01-11T16:01:31.271Z - info: Site data built
+2023-01-11T16:01:31.271Z - info: Lazy website regeneration complete! Total build time: 2.174s
+2023-01-11T16:03:53.036Z - info: [12:03:53 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\ip-tasks-fragment.md
+2023-01-11T16:03:53.037Z - info: Synchronizing opened pages list before reload
+2023-01-11T16:03:53.037Z - info: Current opened pages, from most-to-least recent:
+2023-01-11T16:03:53.038Z - info: 1. schedule/week2/project
+2023-01-11T16:03:54.047Z - info: Rebuilding 1 pages
+2023-01-11T16:03:56.068Z - info: Site data built
+2023-01-11T16:03:56.069Z - info: Pages rebuilt
+2023-01-11T16:03:56.069Z - info: Website regeneration complete! Total build time: 2.023s
+2023-01-11T16:05:05.007Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\tutorial as some of its dependencies were changed since the last visit
+2023-01-11T16:05:05.387Z - info: Site data built
+2023-01-11T16:05:05.387Z - info: Lazy website regeneration complete! Total build time: 0.38s
+2023-01-11T16:05:17.435Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\index as some of its dependencies were changed since the last visit
+2023-01-11T16:05:18.176Z - info: Site data built
+2023-01-11T16:05:18.177Z - info: Lazy website regeneration complete! Total build time: 0.743s
+2023-01-11T16:05:25.146Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2023-01-11T16:05:26.032Z - info: Site data built
+2023-01-11T16:05:26.032Z - info: Lazy website regeneration complete! Total build time: 0.886s
+2023-01-11T16:06:21.746Z - info: [12:06:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-notices-fragment.md
+2023-01-11T16:06:21.746Z - info: Synchronizing opened pages list before reload
+2023-01-11T16:06:21.747Z - info: Current opened pages, from most-to-least recent:
+2023-01-11T16:06:21.747Z - info: 1. schedule/week1/index
+2023-01-11T16:06:22.762Z - info: Rebuilding 1 pages
+2023-01-11T16:06:23.447Z - info: Site data built
+2023-01-11T16:06:23.447Z - info: Pages rebuilt
+2023-01-11T16:06:23.447Z - info: Website regeneration complete! Total build time: 0.685s
+2023-01-11T16:07:22.400Z - info: Website generation started at 12:07:19 am
+2023-01-11T16:07:35.996Z - info: Building assets...
