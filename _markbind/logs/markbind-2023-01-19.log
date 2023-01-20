@@ -84,3 +84,25 @@
 2023-01-19T15:52:56.424Z - info: Website regeneration complete! Total build time: 1.163s
 2023-01-19T15:53:35.761Z - info: Website generation started at 11:53:33 pm
 2023-01-19T15:53:48.699Z - info: Building assets...
+2023-01-19T15:53:59.259Z - info: Assets built
+2023-01-19T15:53:59.260Z - info: Generating pages...
+2023-01-19T15:54:19.134Z - debug:  
+2023-01-19T15:54:19.179Z - debug:  
+2023-01-19T15:54:19.179Z - debug:  
+2023-01-19T15:54:19.180Z - debug:  
+2023-01-19T15:54:19.192Z - debug:  
+2023-01-19T15:54:19.193Z - debug:  
+2023-01-19T15:54:19.193Z - debug:  
+2023-01-19T15:54:19.195Z - debug:  
+2023-01-19T15:54:19.195Z - debug:  
+2023-01-19T15:54:19.196Z - debug:  
+2023-01-19T15:54:19.196Z - debug:  
+2023-01-19T15:54:19.196Z - debug:  
+2023-01-19T15:54:19.626Z - debug:  
+2023-01-19T15:56:08.376Z - debug:  
+2023-01-19T15:56:21.813Z - debug:  
+2023-01-19T15:56:21.899Z - debug:  
+2023-01-19T15:56:29.736Z - info: Pages built
+2023-01-19T15:56:31.455Z - info: Site data built
+2023-01-19T15:56:31.455Z - info: Website generation complete! Total build time: 178.006s
+2023-01-19T15:56:31.455Z - info: Build success!
