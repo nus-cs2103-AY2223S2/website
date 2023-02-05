@@ -1,0 +1,22 @@
+2023-02-05T04:49:02.630Z - info: Website generation (lazy) started at 12:48:56 pm
+2023-02-05T04:49:17.969Z - info: Building assets...
+2023-02-05T04:49:26.655Z - info: Assets built
+2023-02-05T04:49:26.656Z - info: Generating landing page...
+2023-02-05T04:49:28.362Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-02-05T04:49:29.620Z - info: Site data built
+2023-02-05T04:49:29.620Z - info: Website generation (lazy) complete! Total build time: 33.226s
+2023-02-05T04:49:30.588Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-02-05T04:49:30.588Z - info: Press CTRL+C to stop ...
+2023-02-05T04:52:04.658Z - info: [12:52:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData-fragment.md
+2023-02-05T04:52:04.658Z - info: Synchronizing opened pages list before reload
+2023-02-05T04:52:04.658Z - info: Current opened pages, from most-to-least recent:
+2023-02-05T04:52:04.659Z - info: 1. index
+2023-02-05T04:52:05.696Z - info: Rebuilding 1 pages
+2023-02-05T04:52:07.057Z - info: Site data built
+2023-02-05T04:52:07.057Z - info: Pages rebuilt
+2023-02-05T04:52:07.057Z - info: Website regeneration complete! Total build time: 1.363s
+2023-02-05T04:52:20.647Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2023-02-05T04:52:22.089Z - info: Site data built
+2023-02-05T04:52:22.090Z - info: Lazy website regeneration complete! Total build time: 1.443s
+2023-02-05T04:53:17.479Z - info: Website generation started at 12:53:15 pm
+2023-02-05T04:53:28.532Z - info: Building assets...
