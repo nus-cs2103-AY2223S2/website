@@ -292,3 +292,78 @@
 2023-02-13T11:02:38.601Z - info: Website regeneration complete! Total build time: 0.283s
 2023-02-13T11:03:36.565Z - info: Website generation started at 7:03:34 pm
 2023-02-13T11:03:49.230Z - info: Building assets...
+2023-02-13T11:03:57.278Z - info: Assets built
+2023-02-13T11:03:57.279Z - info: Generating pages...
+2023-02-13T11:04:10.140Z - debug:  
+2023-02-13T11:04:10.140Z - debug:  
+2023-02-13T11:04:10.141Z - debug:  
+2023-02-13T11:04:10.141Z - debug:  
+2023-02-13T11:04:10.141Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.142Z - debug:  
+2023-02-13T11:04:10.143Z - debug:  
+2023-02-13T11:04:10.648Z - debug:  
+2023-02-13T11:06:07.843Z - debug:  
+2023-02-13T11:06:20.109Z - debug:  
+2023-02-13T11:06:20.113Z - debug:  
+2023-02-13T11:06:28.441Z - info: Pages built
+2023-02-13T11:06:29.663Z - info: Site data built
+2023-02-13T11:06:29.663Z - info: Website generation complete! Total build time: 175.329s
+2023-02-13T11:06:29.663Z - info: Build success!
+2023-02-13T11:11:12.806Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2023-02-13T14:06:03.560Z - info: Website generation (lazy) started at 10:05:55 pm
+2023-02-13T14:06:18.772Z - info: Building assets...
+2023-02-13T14:06:28.909Z - info: Assets built
+2023-02-13T14:06:28.910Z - info: Generating landing page...
+2023-02-13T14:06:30.828Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-02-13T14:06:32.027Z - info: Site data built
+2023-02-13T14:06:32.027Z - info: Website generation (lazy) complete! Total build time: 36.687s
+2023-02-13T14:06:33.136Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-02-13T14:06:33.136Z - info: Press CTRL+C to stop ...
+2023-02-13T14:06:52.068Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\instructors as some of its dependencies were changed since the last visit
+2023-02-13T14:06:56.478Z - info: Site data built
+2023-02-13T14:06:56.479Z - info: Lazy website regeneration complete! Total build time: 4.41s
+2023-02-13T14:08:31.894Z - info: [10:08:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2023-02-13T14:08:31.895Z - info: Synchronizing opened pages list before reload
+2023-02-13T14:08:31.895Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T14:08:31.895Z - info: 1. admin/instructors
+2023-02-13T14:08:32.915Z - info: Rebuilding 1 pages
+2023-02-13T14:08:33.098Z - info: Site data built
+2023-02-13T14:08:33.098Z - info: Pages rebuilt
+2023-02-13T14:08:33.098Z - info: Website regeneration complete! Total build time: 0.184s
+2023-02-13T14:10:32.132Z - info: [10:10:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2023-02-13T14:10:32.132Z - info: Synchronizing opened pages list before reload
+2023-02-13T14:10:32.132Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T14:10:32.132Z - info: 1. admin/instructors
+2023-02-13T14:10:33.149Z - info: Rebuilding 1 pages
+2023-02-13T14:10:33.255Z - info: Site data built
+2023-02-13T14:10:33.255Z - info: Pages rebuilt
+2023-02-13T14:10:33.255Z - info: Website regeneration complete! Total build time: 0.106s
+2023-02-13T14:11:04.947Z - info: [10:11:04 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2023-02-13T14:11:04.948Z - info: Synchronizing opened pages list before reload
+2023-02-13T14:11:04.948Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T14:11:04.948Z - info: 1. admin/instructors
+2023-02-13T14:11:05.957Z - info: Rebuilding 1 pages
+2023-02-13T14:11:06.081Z - info: Site data built
+2023-02-13T14:11:06.081Z - info: Pages rebuilt
+2023-02-13T14:11:06.081Z - info: Website regeneration complete! Total build time: 0.124s
+2023-02-13T14:11:12.507Z - info: [10:11:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\instructors.md
+2023-02-13T14:11:12.508Z - info: Synchronizing opened pages list before reload
+2023-02-13T14:11:12.508Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T14:11:12.508Z - info: 1. admin/instructors
+2023-02-13T14:11:13.515Z - info: Rebuilding 1 pages
+2023-02-13T14:11:13.600Z - info: Site data built
+2023-02-13T14:11:13.600Z - info: Pages rebuilt
+2023-02-13T14:11:13.600Z - info: Website regeneration complete! Total build time: 0.085s
+2023-02-13T15:44:21.971Z - info: [11:44:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\studentData-fragment.md
+2023-02-13T15:44:21.972Z - info: Synchronizing opened pages list before reload
+2023-02-13T15:44:21.972Z - info: Current opened pages, from most-to-least recent:
+2023-02-13T15:44:21.972Z - info: 1. admin/instructors
+2023-02-13T15:44:22.999Z - info: No pages needed to be rebuilt
+2023-02-13T15:44:39.085Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2023-02-13T15:44:40.908Z - info: Site data built
+2023-02-13T15:44:40.908Z - info: Lazy website regeneration complete! Total build time: 1.824s
