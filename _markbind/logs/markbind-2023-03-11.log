@@ -104,3 +104,233 @@
 2023-03-10T17:40:29.836Z - info: Website regeneration complete! Total build time: 0.154s
 2023-03-10T17:41:26.980Z - info: Website generation started at 1:41:25 am
 2023-03-10T17:41:37.597Z - info: Building assets...
+2023-03-10T17:41:45.401Z - info: Assets built
+2023-03-10T17:41:45.401Z - info: Generating pages...
+2023-03-10T17:41:55.321Z - debug:  
+2023-03-10T17:41:55.400Z - debug:  
+2023-03-10T17:41:55.660Z - debug:  
+2023-03-10T17:41:55.689Z - debug:  
+2023-03-10T17:41:58.197Z - debug:  
+2023-03-10T17:41:58.222Z - debug:  
+2023-03-10T17:41:58.222Z - debug:  
+2023-03-10T17:41:58.223Z - debug:  
+2023-03-10T17:41:58.223Z - debug:  
+2023-03-10T17:41:58.224Z - debug:  
+2023-03-10T17:41:58.224Z - debug:  
+2023-03-10T17:41:58.224Z - debug:  
+2023-03-10T17:41:58.712Z - debug:  
+2023-03-10T17:43:50.446Z - debug:  
+2023-03-10T17:44:09.077Z - debug:  
+2023-03-10T17:44:09.078Z - debug:  
+2023-03-10T17:44:18.454Z - info: Pages built
+2023-03-10T17:44:19.912Z - info: Site data built
+2023-03-10T17:44:19.913Z - info: Website generation complete! Total build time: 174.586s
+2023-03-10T17:44:19.913Z - info: Build success!
+2023-03-10T17:46:44.812Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2023-03-11T09:24:02.526Z - info: Website generation (lazy) started at 5:23:57 pm
+2023-03-11T09:24:13.607Z - info: Building assets...
+2023-03-11T09:24:21.204Z - info: Assets built
+2023-03-11T09:24:21.205Z - info: Generating landing page...
+2023-03-11T09:24:22.711Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-03-11T09:24:23.741Z - info: Site data built
+2023-03-11T09:24:23.741Z - info: Website generation (lazy) complete! Total build time: 25.881s
+2023-03-11T09:24:24.644Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-03-11T09:24:24.645Z - info: Press CTRL+C to stop ...
+2023-03-11T09:24:41.538Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\index as some of its dependencies were changed since the last visit
+2023-03-11T09:24:45.233Z - info: Site data built
+2023-03-11T09:24:45.233Z - info: Lazy website regeneration complete! Total build time: 3.695s
+2023-03-11T09:24:48.432Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\topics as some of its dependencies were changed since the last visit
+2023-03-11T09:25:03.480Z - debug:  
+2023-03-11T09:25:03.484Z - debug:  
+2023-03-11T09:25:03.485Z - debug:  
+2023-03-11T09:25:03.485Z - debug:  
+2023-03-11T09:25:03.486Z - debug:  
+2023-03-11T09:25:04.312Z - debug:  
+2023-03-11T09:25:04.312Z - debug:  
+2023-03-11T09:25:04.313Z - debug:  
+2023-03-11T09:25:04.460Z - info: Site data built
+2023-03-11T09:25:04.461Z - info: Lazy website regeneration complete! Total build time: 16.029s
+2023-03-11T09:25:04.585Z - debug:  
+2023-03-11T09:25:05.134Z - debug:  
+2023-03-11T09:25:17.598Z - info: [5:25:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\weeklyTextbookTopics-fragment.md
+2023-03-11T09:25:17.598Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:25:17.599Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:25:17.599Z - info: 1. schedule/week8/topics
+2023-03-11T09:25:18.616Z - info: Rebuilding 1 pages
+2023-03-11T09:25:24.839Z - info: Site data built
+2023-03-11T09:25:24.845Z - info: Pages rebuilt
+2023-03-11T09:25:24.846Z - info: Website regeneration complete! Total build time: 6.231s
+2023-03-11T09:25:26.900Z - debug:  
+2023-03-11T09:25:27.040Z - debug:  
+2023-03-11T09:25:27.170Z - debug:  
+2023-03-11T09:25:27.273Z - debug:  
+2023-03-11T09:25:27.439Z - debug:  
+2023-03-11T09:25:27.698Z - debug:  
+2023-03-11T09:25:27.732Z - debug:  
+2023-03-11T09:25:27.762Z - debug:  
+2023-03-11T09:25:27.788Z - debug:  
+2023-03-11T09:25:27.901Z - debug:  
+2023-03-11T09:27:24.177Z - info: [5:27:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+2023-03-11T09:27:24.177Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:27:24.177Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:27:24.178Z - info: 1. schedule/week8/topics
+2023-03-11T09:27:25.190Z - info: Rebuilding 1 pages
+2023-03-11T09:27:26.754Z - error:  Error: No such segment '#followup-testing-tdd-what' in file: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary-fragment.md
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\followup-box.md
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:226:23)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:176:28)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:323:24)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+    at Array.forEach (<anonymous>)
+    at NodeProcessor.traverse (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:326:27)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:327:22
+2023-03-11T09:27:32.175Z - info: Site data built
+2023-03-11T09:27:32.177Z - info: Pages rebuilt
+2023-03-11T09:27:32.177Z - info: Website regeneration complete! Total build time: 6.987s
+2023-03-11T09:27:33.018Z - debug:  
+2023-03-11T09:27:33.401Z - debug:  
+2023-03-11T09:27:33.620Z - debug:  
+2023-03-11T09:27:33.730Z - debug:  
+2023-03-11T09:27:33.891Z - debug:  
+2023-03-11T09:27:33.988Z - debug:  
+2023-03-11T09:27:34.007Z - debug:  
+2023-03-11T09:27:34.077Z - debug:  
+2023-03-11T09:27:34.103Z - debug:  
+2023-03-11T09:27:34.240Z - debug:  
+2023-03-11T09:28:31.348Z - info: [5:28:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\commentary-cs2103-fragment.md
+2023-03-11T09:28:31.349Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:28:31.349Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:28:31.350Z - info: 1. schedule/week8/topics
+2023-03-11T09:28:31.373Z - info: [5:28:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\commentary-tic4001-fragment.md
+2023-03-11T09:28:31.373Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:28:31.373Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:28:31.373Z - info: 1. schedule/week8/topics
+2023-03-11T09:28:32.368Z - info: Rebuilding 1 pages
+2023-03-11T09:28:36.326Z - info: Assets built
+2023-03-11T09:28:41.540Z - info: Site data built
+2023-03-11T09:28:41.560Z - info: Pages rebuilt
+2023-03-11T09:28:41.570Z - info: Website regeneration complete! Total build time: 9.193s
+2023-03-11T09:28:42.823Z - debug:  
+2023-03-11T09:28:43.193Z - debug:  
+2023-03-11T09:28:43.425Z - debug:  
+2023-03-11T09:28:43.640Z - debug:  
+2023-03-11T09:28:43.740Z - debug:  
+2023-03-11T09:28:43.770Z - debug:  
+2023-03-11T09:28:43.802Z - debug:  
+2023-03-11T09:28:43.826Z - debug:  
+2023-03-11T09:28:43.949Z - debug:  
+2023-03-11T09:28:44.244Z - debug:  
+2023-03-11T09:28:57.107Z - info: [5:28:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC4002\weeklyTextbookTopics-fragment.md
+2023-03-11T09:28:57.108Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:28:57.108Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:28:57.109Z - info: 1. schedule/week8/topics
+2023-03-11T09:28:58.124Z - info: Assets built
+2023-03-11T09:30:52.047Z - info: [5:30:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\how\text.md
+2023-03-11T09:30:52.047Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:30:52.048Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:30:52.048Z - info: 1. schedule/week8/topics
+2023-03-11T09:30:53.054Z - info: Rebuilding 1 pages
+2023-03-11T09:30:59.898Z - info: Site data built
+2023-03-11T09:30:59.917Z - info: Pages rebuilt
+2023-03-11T09:30:59.918Z - info: Website regeneration complete! Total build time: 6.864s
+2023-03-11T09:31:00.995Z - debug:  
+2023-03-11T09:31:01.027Z - debug:  
+2023-03-11T09:31:01.094Z - debug:  
+2023-03-11T09:31:01.187Z - debug:  
+2023-03-11T09:31:01.309Z - debug:  
+2023-03-11T09:31:01.517Z - debug:  
+2023-03-11T09:31:01.722Z - debug:  
+2023-03-11T09:31:01.744Z - debug:  
+2023-03-11T09:31:01.791Z - debug:  
+2023-03-11T09:31:01.888Z - debug:  
+2023-03-11T09:32:45.083Z - info: [5:32:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\how\text.md
+2023-03-11T09:32:45.084Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:32:45.085Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:32:45.086Z - info: 1. schedule/week8/topics
+2023-03-11T09:32:46.095Z - info: Rebuilding 1 pages
+2023-03-11T09:32:52.892Z - info: Site data built
+2023-03-11T09:32:52.893Z - info: Pages rebuilt
+2023-03-11T09:32:52.893Z - info: Website regeneration complete! Total build time: 6.799s
+2023-03-11T09:32:54.651Z - debug:  
+2023-03-11T09:32:54.681Z - debug:  
+2023-03-11T09:32:54.805Z - debug:  
+2023-03-11T09:32:54.835Z - debug:  
+2023-03-11T09:32:55.094Z - debug:  
+2023-03-11T09:32:55.135Z - debug:  
+2023-03-11T09:32:55.169Z - debug:  
+2023-03-11T09:32:55.207Z - debug:  
+2023-03-11T09:32:55.290Z - debug:  
+2023-03-11T09:32:55.320Z - debug:  
+2023-03-11T09:34:15.377Z - info: [5:34:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\how\text.md
+2023-03-11T09:34:15.378Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:34:15.379Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:34:15.381Z - info: 1. schedule/week8/topics
+2023-03-11T09:34:16.390Z - info: Rebuilding 1 pages
+2023-03-11T09:34:22.800Z - debug:  
+2023-03-11T09:34:22.800Z - debug:  
+2023-03-11T09:34:22.802Z - debug:  
+2023-03-11T09:34:22.816Z - debug:  
+2023-03-11T09:34:22.836Z - debug:  
+2023-03-11T09:34:22.867Z - debug:  
+2023-03-11T09:34:22.991Z - debug:  
+2023-03-11T09:34:22.991Z - debug:  
+2023-03-11T09:34:23.042Z - info: Site data built
+2023-03-11T09:34:23.042Z - info: Pages rebuilt
+2023-03-11T09:34:23.043Z - info: Website regeneration complete! Total build time: 6.655s
+2023-03-11T09:34:23.247Z - debug:  
+2023-03-11T09:34:23.336Z - debug:  
+2023-03-11T09:36:49.938Z - info: [5:36:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\tdd\what\text.md
+2023-03-11T09:36:49.939Z - info: Synchronizing opened pages list before reload
+2023-03-11T09:36:49.939Z - info: Current opened pages, from most-to-least recent:
+2023-03-11T09:36:49.940Z - info: 1. schedule/week8/topics
+2023-03-11T09:36:50.953Z - info: Rebuilding 1 pages
+2023-03-11T09:36:57.612Z - debug:  
+2023-03-11T09:36:57.613Z - debug: ^C
+2023-03-11T09:36:57.613Z - debug: ^C
+2023-03-11T09:36:57.613Z - debug:  
+2023-03-11T09:36:57.613Z - debug: java.lang.IllegalStateException: Shutdown in progress
+	at java.base/java.lang.ApplicationShutdownHooks.add(ApplicationShutdownHooks.java:66)
+	at java.base/java.lang.Runtime.addShutdownHook(Runtime.java:213)
+	at java.desktop/com.sun.imageio.stream.StreamCloser.lambda$addToQueue$0(StreamCloser.java:100)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/com.sun.imageio.stream.StreamCloser.addToQueue(StreamCloser.java:88)
+	at java.desktop/javax.imageio.stream.FileCacheImageOutputStream.<init>(FileCacheImageOutputStream.java:95)
+	at java.desktop/com.sun.imageio.spi.OutputStreamImageOutputStreamSpi.createOutputStreamInstance(OutputStreamImageOutputStreamSpi.java:68)
+	at java.desktop/javax.imageio.ImageIO.createImageOutputStream(ImageIO.java:419)
+	at java.desktop/javax.imageio.ImageIO.write(ImageIO.java:1589)
+	at net.sourceforge.plantuml.security.ImageIO.write(ImageIO.java:57)
+	at net.sourceforge.plantuml.png.PngIO.write(PngIO.java:85)
+	at net.sourceforge.plantuml.png.PngIO.write(PngIO.java:77)
+	at net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d.writeImageTOBEMOVED(UGraphicG2d.java:222)
+	at net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal(ImageBuilder.java:297)
+	at net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageTOBEMOVED(ImageBuilder.java:215)
+	at net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFileInternal(CucaDiagramFileMakerSvek.java:142)
+	at net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek.createFile(CucaDiagramFileMakerSvek.java:77)
+	at net.sourceforge.plantuml.cucadiagram.CucaDiagram.exportDiagramInternal(CucaDiagram.java:654)
+	at net.sourceforge.plantuml.classdiagram.ClassDiagram.exportDiagramInternal(ClassDiagram.java:197)
+	at net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:189)
+	at net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:140)
+	at net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:156)
+	at net.sourceforge.plantuml.Pipe.managePipe(Pipe.java:113)
+	at net.sourceforge.plantuml.Run.managePipe(Run.java:363)
+	at net.sourceforge.plantuml.Run.main(Run.java:170)
+
+2023-03-11T09:36:57.613Z - debug:  
+2023-03-11T09:36:57.613Z - debug:  
+2023-03-11T09:36:57.614Z - debug:  
+2023-03-11T09:36:57.614Z - debug:  
+2023-03-11T09:36:57.651Z - debug:  
+2023-03-11T09:36:57.811Z - info: Site data built
+2023-03-11T09:36:57.811Z - info: Pages rebuilt
+2023-03-11T09:36:57.811Z - info: Website regeneration complete! Total build time: 6.86s
+2023-03-11T09:37:38.255Z - info: Website generation started at 5:37:35 pm
+2023-03-11T09:37:50.642Z - info: Building assets...
