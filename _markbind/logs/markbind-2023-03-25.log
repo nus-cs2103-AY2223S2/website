@@ -231,3 +231,64 @@
 2023-03-25T06:30:18.604Z - info: Website regeneration complete! Total build time: 1.644s
 2023-03-25T06:31:18.299Z - info: Website generation started at 2:31:14 pm
 2023-03-25T06:31:34.729Z - info: Building assets...
+2023-03-25T06:31:45.171Z - info: Assets built
+2023-03-25T06:31:45.172Z - info: Generating pages...
+2023-03-25T06:32:03.001Z - debug:  
+2023-03-25T06:32:03.023Z - debug:  
+2023-03-25T06:32:05.957Z - debug:  
+2023-03-25T06:32:05.958Z - debug:  
+2023-03-25T06:32:05.958Z - debug:  
+2023-03-25T06:32:05.959Z - debug:  
+2023-03-25T06:32:05.959Z - debug:  
+2023-03-25T06:32:05.959Z - debug:  
+2023-03-25T06:32:05.960Z - debug:  
+2023-03-25T06:32:05.960Z - debug:  
+2023-03-25T06:32:05.960Z - debug:  
+2023-03-25T06:32:05.960Z - debug:  
+2023-03-25T06:32:06.617Z - debug:  
+2023-03-25T06:34:17.985Z - debug:  
+2023-03-25T06:34:32.009Z - debug:  
+2023-03-25T06:34:32.009Z - debug:  
+2023-03-25T06:34:38.802Z - info: Pages built
+2023-03-25T06:34:39.898Z - info: Site data built
+2023-03-25T06:34:39.898Z - info: Website generation complete! Total build time: 204.989s
+2023-03-25T06:34:39.898Z - info: Build success!
+2023-03-25T06:37:06.858Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2023-03-25T15:27:00.190Z - info: Website generation (lazy) started at 11:26:53 pm
+2023-03-25T15:27:13.135Z - info: Building assets...
+2023-03-25T15:27:21.622Z - info: Assets built
+2023-03-25T15:27:21.622Z - info: Generating landing page...
+2023-03-25T15:27:23.093Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-03-25T15:27:24.115Z - info: Site data built
+2023-03-25T15:27:24.116Z - info: Website generation (lazy) complete! Total build time: 30.831s
+2023-03-25T15:27:25.023Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-03-25T15:27:25.023Z - info: Press CTRL+C to stop ...
+2023-03-25T15:27:49.891Z - info: [11:27:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-03-25T15:27:49.892Z - info: Synchronizing opened pages list before reload
+2023-03-25T15:27:49.892Z - info: Current opened pages, from most-to-least recent:
+2023-03-25T15:27:49.893Z - info: 1. index
+2023-03-25T15:27:50.897Z - info: Assets built
+2023-03-25T15:27:57.281Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2023-03-25T15:27:57.943Z - info: Site data built
+2023-03-25T15:27:57.944Z - info: Lazy website regeneration complete! Total build time: 0.664s
+2023-03-25T15:28:03.961Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub as some of its dependencies were changed since the last visit
+2023-03-25T15:28:05.125Z - info: Site data built
+2023-03-25T15:28:05.126Z - info: Lazy website regeneration complete! Total build time: 1.164s
+2023-03-25T15:30:14.570Z - info: [11:30:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-03-25T15:30:14.571Z - info: Synchronizing opened pages list before reload
+2023-03-25T15:30:14.571Z - info: Current opened pages, from most-to-least recent:
+2023-03-25T15:30:14.572Z - info: 1. admin/appendixE-gitHub
+2023-03-25T15:30:15.580Z - info: Rebuilding 1 pages
+2023-03-25T15:30:16.611Z - info: Site data built
+2023-03-25T15:30:16.611Z - info: Pages rebuilt
+2023-03-25T15:30:16.611Z - info: Website regeneration complete! Total build time: 1.033s
+2023-03-25T15:30:48.081Z - info: [11:30:48 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub.md
+2023-03-25T15:30:48.082Z - info: Synchronizing opened pages list before reload
+2023-03-25T15:30:48.082Z - info: Current opened pages, from most-to-least recent:
+2023-03-25T15:30:48.082Z - info: 1. admin/appendixE-gitHub
+2023-03-25T15:30:49.095Z - info: Rebuilding 1 pages
+2023-03-25T15:30:49.774Z - info: Site data built
+2023-03-25T15:30:49.775Z - info: Pages rebuilt
+2023-03-25T15:30:49.775Z - info: Website regeneration complete! Total build time: 0.68s
+2023-03-25T15:31:31.627Z - info: Website generation started at 11:31:29 pm
+2023-03-25T15:31:42.637Z - info: Building assets...
