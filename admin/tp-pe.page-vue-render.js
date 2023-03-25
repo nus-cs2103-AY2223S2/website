@@ -17,7 +17,7 @@ with(this){return _c('h3',{attrs:{"id":"tp-practical-exam-dry-run-pe-d"}},[_c('s
 with(this){return _c('h4',{attrs:{"id":"pe-d-overview"}},[_c('span',{staticClass:"anchor",attrs:{"id":"pe-d-overview"}}),_c('span',{staticClass:"badge bg-primary"},[_v("PE-D")]),_v(" "),_c('span',{staticClass:"text-primary"},[_v("Overview")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#pe-d-overview","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("When, where")]),_v(": uses a 40 minute slot at the start of week 11 lecture slot (to be done online).")])}
+with(this){return _c('p',[_c('strong',[_v("When, where")]),_v(": uses a 40 minute slot at the start of week 11 lecture slot.\nIt will be conducted via Zoom. If you can't find another suitable location to join the Zoom link,\nyou may do so from the lecture venue.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("If you scored less than half of the marks in the PE, we will consider your performance in PE dry run as well when calculating the PE marks. You can earn "),_c('mark',[_v("up to 2 bonus marks")]),_v(" in this manner."),_c('br'),_v("\nYour performance of the PE-D will be graded "),_c('mark',[_v("based on the usefulness and the quality of your bug reports")]),_v(", as evaluated by the receiving team.")]),_v(" "),_c('li',[_v("PE dry run is a way for you to practice for the actual PE.")]),_v(" "),_c('li',[_v("Taking part in the PE dry run will earn you participation points.")]),_v(" "),_c('li',[_v("There is "),_c('mark',[_v("no penalty for bugs reported")]),_v(" in your product. Every bug you find is a win-win for you and the team whose product you are testing.")])])}
@@ -194,6 +194,6 @@ with(this){return _c('ul',[_c('li',[_v("In this phase tutors will look through a
 with(this){return _c('p',[_c('span',{staticClass:"float-start algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-deliverables.html"}},[_c('span',[_c('span',{staticClass:"far fa-arrow-alt-circle-left",attrs:{"aria-hidden":"true"}}),_v(" tP: Deliverables")])])]),_c('span',{staticClass:"float-end algolia-no-index"},[_c('a',{staticClass:"badge bg-light text-dark",attrs:{"href":"/website/admin/tp-grading.html"}},[_c('span',[_v("tP: Grading "),_c('span',{staticClass:"far fa-arrow-alt-circle-right",attrs:{"aria-hidden":"true"}})])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Sat, 25 Mar 2023, 13:33:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.1.0")]),_v(", generated on Sat, 25 Mar 2023, 14:31:45 GMT+8]")])])])}
 }];
   
