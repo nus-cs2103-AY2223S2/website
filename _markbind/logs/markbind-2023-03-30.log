@@ -48,3 +48,40 @@
 2023-03-29T16:02:30.005Z - info: Website regeneration complete! Total build time: 0.216s
 2023-03-29T16:03:15.293Z - info: Website generation started at 12:03:13 am
 2023-03-29T16:03:29.615Z - info: Building assets...
+2023-03-29T16:03:38.537Z - info: Assets built
+2023-03-29T16:03:38.538Z - info: Generating pages...
+2023-03-29T16:03:52.971Z - debug:  
+2023-03-29T16:03:52.990Z - debug:  
+2023-03-29T16:03:56.156Z - debug:  
+2023-03-29T16:03:56.168Z - debug:  
+2023-03-29T16:03:56.169Z - debug:  
+2023-03-29T16:03:56.169Z - debug:  
+2023-03-29T16:03:56.169Z - debug:  
+2023-03-29T16:03:56.169Z - debug:  
+2023-03-29T16:03:56.170Z - debug:  
+2023-03-29T16:03:56.170Z - debug:  
+2023-03-29T16:03:56.170Z - debug:  
+2023-03-29T16:03:56.170Z - debug:  
+2023-03-29T16:03:56.699Z - debug:  
+2023-03-29T16:06:11.141Z - debug:  
+2023-03-29T16:06:25.991Z - debug:  
+2023-03-29T16:06:25.991Z - debug:  
+2023-03-29T16:06:34.554Z - info: Pages built
+2023-03-29T16:06:35.957Z - info: Site data built
+2023-03-29T16:06:35.957Z - info: Website generation complete! Total build time: 202.686s
+2023-03-29T16:06:35.957Z - info: Build success!
+2023-03-29T16:11:48.926Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
+2023-03-29T16:50:38.496Z - info: Website generation (lazy) started at 12:50:31 am
+2023-03-29T16:50:52.790Z - info: Building assets...
+2023-03-29T16:51:01.291Z - info: Assets built
+2023-03-29T16:51:01.293Z - info: Generating landing page...
+2023-03-29T16:51:03.128Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-03-29T16:51:04.293Z - info: Site data built
+2023-03-29T16:51:04.294Z - info: Website generation (lazy) complete! Total build time: 32.665s
+2023-03-29T16:51:05.141Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-03-29T16:51:05.142Z - info: Press CTRL+C to stop ...
+2023-03-29T16:51:17.401Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\teamList as some of its dependencies were changed since the last visit
+2023-03-29T16:51:30.409Z - info: Site data built
+2023-03-29T16:51:30.411Z - info: Lazy website regeneration complete! Total build time: 13.009s
+2023-03-29T18:59:31.361Z - info: Website generation started at 2:59:29 am
+2023-03-29T18:59:45.105Z - info: Building assets...
