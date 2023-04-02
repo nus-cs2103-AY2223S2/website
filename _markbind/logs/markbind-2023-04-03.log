@@ -1,0 +1,66 @@
+2023-04-02T17:58:01.018Z - info: Website generation (lazy) started at 1:57:54 am
+2023-04-02T17:58:14.005Z - info: Building assets...
+2023-04-02T17:58:22.158Z - info: Assets built
+2023-04-02T17:58:22.159Z - info: Generating landing page...
+2023-04-02T17:58:23.155Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-04-02T17:58:24.378Z - info: Site data built
+2023-04-02T17:58:24.378Z - info: Website generation (lazy) complete! Total build time: 29.524s
+2023-04-02T17:58:26.808Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:60187
+2023-04-02T17:58:26.808Z - info: Press CTRL+C to stop ...
+2023-04-02T17:58:29.285Z - info: [1:58:29 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T17:58:29.285Z - info: Synchronizing opened pages list before reload
+2023-04-02T17:58:29.286Z - info: No pages are currently opened
+2023-04-02T17:58:30.814Z - info: No pages needed to be rebuilt
+2023-04-02T17:59:17.625Z - info: [1:59:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T17:59:17.625Z - info: Synchronizing opened pages list before reload
+2023-04-02T17:59:17.626Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T17:59:17.627Z - info: 1. index
+2023-04-02T17:59:18.633Z - info: Rebuilding 1 pages
+2023-04-02T17:59:19.423Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\project as some of its dependencies were changed since the last visit
+2023-04-02T17:59:22.170Z - info: Site data built
+2023-04-02T17:59:22.170Z - info: Pages rebuilt
+2023-04-02T17:59:22.171Z - info: Website regeneration complete! Total build time: 3.539s
+2023-04-02T17:59:22.300Z - info: Site data built
+2023-04-02T17:59:22.301Z - info: Lazy website regeneration complete! Total build time: 2.88s
+2023-04-02T18:00:31.385Z - info: [2:00:31 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T18:00:31.386Z - info: Synchronizing opened pages list before reload
+2023-04-02T18:00:31.387Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T18:00:31.387Z - info: 1. schedule/week12/project
+2023-04-02T18:00:32.394Z - info: Rebuilding 1 pages
+2023-04-02T18:00:35.073Z - info: Site data built
+2023-04-02T18:00:35.073Z - info: Pages rebuilt
+2023-04-02T18:00:35.073Z - info: Website regeneration complete! Total build time: 2.68s
+2023-04-02T18:00:50.476Z - info: [2:00:50 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T18:00:50.476Z - info: Synchronizing opened pages list before reload
+2023-04-02T18:00:50.477Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T18:00:50.477Z - info: 1. schedule/week12/project
+2023-04-02T18:00:51.480Z - info: Rebuilding 1 pages
+2023-04-02T18:00:54.214Z - info: Site data built
+2023-04-02T18:00:54.215Z - info: Pages rebuilt
+2023-04-02T18:00:54.215Z - info: Website regeneration complete! Total build time: 2.736s
+2023-04-02T18:01:24.743Z - info: [2:01:24 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T18:01:24.743Z - info: Synchronizing opened pages list before reload
+2023-04-02T18:01:24.744Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T18:01:24.744Z - info: 1. schedule/week12/project
+2023-04-02T18:01:25.755Z - info: Rebuilding 1 pages
+2023-04-02T18:01:28.395Z - info: Site data built
+2023-04-02T18:01:28.396Z - info: Pages rebuilt
+2023-04-02T18:01:28.396Z - info: Website regeneration complete! Total build time: 2.642s
+2023-04-02T18:02:23.288Z - info: [2:02:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T18:02:23.288Z - info: Synchronizing opened pages list before reload
+2023-04-02T18:02:23.288Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T18:02:23.289Z - info: 1. schedule/week12/project
+2023-04-02T18:02:24.305Z - info: Rebuilding 1 pages
+2023-04-02T18:02:26.500Z - info: Site data built
+2023-04-02T18:02:26.501Z - info: Pages rebuilt
+2023-04-02T18:02:26.501Z - info: Website regeneration complete! Total build time: 2.197s
+2023-04-02T18:03:21.844Z - info: [2:03:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tp-tasks-fragment.md
+2023-04-02T18:03:21.844Z - info: Synchronizing opened pages list before reload
+2023-04-02T18:03:21.844Z - info: Current opened pages, from most-to-least recent:
+2023-04-02T18:03:21.844Z - info: 1. schedule/week12/project
+2023-04-02T18:03:22.859Z - info: Rebuilding 1 pages
+2023-04-02T18:03:24.985Z - info: Site data built
+2023-04-02T18:03:24.986Z - info: Pages rebuilt
+2023-04-02T18:03:24.986Z - info: Website regeneration complete! Total build time: 2.128s
+2023-04-02T18:04:54.885Z - info: Website generation started at 2:04:52 am
+2023-04-02T18:05:06.371Z - info: Building assets...
