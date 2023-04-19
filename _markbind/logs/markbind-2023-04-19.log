@@ -1,0 +1,17 @@
+2023-04-19T04:28:49.482Z - info: Website generation (lazy) started at 12:28:34 pm
+2023-04-19T04:29:09.535Z - info: Building assets...
+2023-04-19T04:29:19.355Z - info: Assets built
+2023-04-19T04:29:19.357Z - info: Generating landing page...
+2023-04-19T04:29:20.693Z - info: Landing page built, other pages will be built as you navigate to them!
+2023-04-19T04:29:21.928Z - info: Site data built
+2023-04-19T04:29:21.929Z - info: Website generation (lazy) complete! Total build time: 47.431s
+2023-04-19T04:29:22.890Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2023-04-19T04:29:22.891Z - info: Press CTRL+C to stop ...
+2023-04-19T04:29:51.212Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2023-04-19T04:29:51.696Z - info: Site data built
+2023-04-19T04:29:51.696Z - info: Lazy website regeneration complete! Total build time: 0.486s
+2023-04-19T04:29:58.440Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\refactoring as some of its dependencies were changed since the last visit
+2023-04-19T04:29:58.999Z - info: Site data built
+2023-04-19T04:29:59.000Z - info: Lazy website regeneration complete! Total build time: 0.56s
+2023-04-19T04:30:33.980Z - info: Website generation started at 12:30:31 pm
+2023-04-19T04:30:48.280Z - info: Building assets...
