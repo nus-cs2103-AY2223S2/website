@@ -141,3 +141,26 @@
 2023-05-06T17:00:56.748Z - info: The website has been deployed at: https://nus-tee3201.github.io/2023
 2023-05-06T17:07:01.027Z - info: Website generation started at 1:06:57 am
 2023-05-06T17:07:12.896Z - info: Building assets...
+2023-05-06T17:07:20.606Z - info: Assets built
+2023-05-06T17:07:20.607Z - info: Generating pages...
+2023-05-06T17:07:32.872Z - debug:  
+2023-05-06T17:07:32.873Z - debug:  
+2023-05-06T17:07:35.419Z - debug:  
+2023-05-06T17:07:35.434Z - debug:  
+2023-05-06T17:07:35.434Z - debug:  
+2023-05-06T17:07:35.435Z - debug:  
+2023-05-06T17:07:35.435Z - debug:  
+2023-05-06T17:07:35.435Z - debug:  
+2023-05-06T17:07:35.435Z - debug:  
+2023-05-06T17:07:35.436Z - debug:  
+2023-05-06T17:07:35.436Z - debug:  
+2023-05-06T17:07:35.436Z - debug:  
+2023-05-06T17:07:35.809Z - debug:  
+2023-05-06T17:09:31.217Z - debug:  
+2023-05-06T17:09:46.409Z - debug:  
+2023-05-06T17:09:46.414Z - debug:  
+2023-05-06T17:09:56.235Z - info: Pages built
+2023-05-06T17:09:57.543Z - info: Site data built
+2023-05-06T17:09:57.544Z - info: Website generation complete! Total build time: 180.324s
+2023-05-06T17:09:57.544Z - info: Build success!
+2023-05-06T17:12:09.776Z - info: The website has been deployed at: https://nus-cs2103-ay2223s2.github.io/website
